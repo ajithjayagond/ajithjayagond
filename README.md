@@ -1,4 +1,4 @@
-## Hi👋, I'm Ajith Jayagond
+## Hi👋 I'm Ajith Jayagond
 
 <!--
 **ajithjayagond/ajithjayagond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
